@@ -11,7 +11,7 @@
     "rooms": "3",
     "date": "12.10.2020",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/mater-bonifacia-weg.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/mater-bonifacia-weg.jpg"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "rooms": "2",
     "date": "12.10.2020",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/Frauenstrasse.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/Frauenstrasse.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "rooms": "3",
     "date": "27.10.2013",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/Prinzregentenstra%C3%9Fe.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/Prinzregentenstra%C3%9Fe.jpg"
   },
   {
     "id": 5,
@@ -53,7 +53,7 @@
     "rooms": "3",
     "date": "07.10.2020",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/Bachsta%C3%9Fe.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/Bachsta%C3%9Fe.jpg"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "rooms": "3",
     "date": "27.10.2020",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/Milchstra%C3%9Fe.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/Milchstra%C3%9Fe.jpg"
   },
   {
     "id": 7,
@@ -81,6 +81,6 @@
     "rooms": "3",
     "date": "09.11.2020",
     "type": "Mehrfamilienhaus",
-    "image": "https://github.com/th1lo/data-populator/blob/main/Gro%C3%9Fe-Ba%CC%88ckerstra%C3%9Fe.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/th1lo/data-populator/main/Gro%C3%9Fe-Ba%CC%88ckerstra%C3%9Fe.jpg"
   }
 ]
